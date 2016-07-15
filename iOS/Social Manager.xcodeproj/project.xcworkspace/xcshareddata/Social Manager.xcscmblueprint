@@ -1,0 +1,36 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86" : 0,
+    "AE0486DC204CF82B340634F0AD3FED927423947E" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9D0EC955-70C7-4AF0-A352-4B879FD3BBAC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86" : "Social%20Manager%20Parse\/AlamofireImage\/",
+    "AE0486DC204CF82B340634F0AD3FED927423947E" : "",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "Social%20Manager%20Parse\/Alamofire\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Social Manager",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Social Manager.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/tbaranowicz\/post-manager.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AE0486DC204CF82B340634F0AD3FED927423947E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/AlamofireImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2AD29AE1B693121D0EDBB4855C96B75ECBB0D86"
+    }
+  ]
+}

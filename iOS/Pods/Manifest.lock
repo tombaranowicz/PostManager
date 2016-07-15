@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (3.1.5)
+  - AlamofireImage (2.3.0):
+    - Alamofire (~> 3.1)
+  - Google/Analytics (1.3.2):
+    - Google/Core
+    - GoogleAnalytics (~> 3.12)
+  - Google/Core (1.3.2):
+    - GoogleInterchangeUtilities (~> 1.0)
+    - GoogleNetworkingUtilities (~> 1.0)
+    - GoogleSymbolUtilities (~> 1.0)
+    - GoogleUtilities (~> 1.1)
+  - GoogleAnalytics (3.14.0)
+  - GoogleInterchangeUtilities (1.1.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleNetworkingUtilities (1.0.0):
+    - GoogleSymbolUtilities (~> 1.0)
+  - GoogleSymbolUtilities (1.0.3)
+  - GoogleUtilities (1.1.0):
+    - GoogleSymbolUtilities (~> 1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - Google/Analytics
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  AlamofireImage: 4013fb5b99b10117bf2554a67b9bd2231d476b45
+  Google: 97618e118111b998cce1d8dd1bd98b82301d72db
+  GoogleAnalytics: 9be1afdb8deeac4bb5f13ca7f7d3b9db2a1f43dc
+  GoogleInterchangeUtilities: d7f7174176fbcf9710f696f1acebad4dbd98ac03
+  GoogleNetworkingUtilities: 292992ab31b7b4ba32809a0e8b40e324cdfb2c0c
+  GoogleSymbolUtilities: 82ad9f93d3615244b3f4ce440f5ab2515e8b4f56
+  GoogleUtilities: 8ed9134debe11719097881711464752900668f10
+
+COCOAPODS: 0.39.0
